@@ -2,12 +2,13 @@
 Right click or pinch on mobiles for that zoom.
 
 Version 1 : https://mengercube.github.io<br>
+Version 2 : https://mengercube.github.io/2
 ```
 Keyboard Keys:
 z = Solid / Opaque
 x = Half Translucent
 ```
-Version 2 : https://mengercube.github.io/2
+Version 3 : https://mengercube.github.io/3
 ```
 Keyboard Keys:
 z = Solid / Opaque
