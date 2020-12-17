@@ -13,6 +13,6 @@ Version 3 : https://mengercube.github.io/3
 Keyboard Keys:
 z = Solid / Opaque
 x = Half Translucent
-a = Lambertian
-b = Phong
+a = Lambertian (with normals)
+b = Phong (without normals)
 ```
